@@ -1,0 +1,32 @@
+html {
+    
+}
+
+.nav_barre{
+    display: inline-flex;
+    height: 4rem;
+    align-items: center;
+    background-color: cornflowerblue;
+    align-content: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.nav_name {
+    margin-right: 8rem;
+}
+
+h1 {
+    color: blue;
+    width: 100%;
+}
+
+.competences {
+    display: grid;
+    grid-area: 2 11;
+
+}
+
+.nav_button {
+    display: inline-flex;
+}
